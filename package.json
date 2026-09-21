@@ -46,6 +46,6 @@
   },
   "devDependencies": {
     "concurrently": "^10.0.5",
-    "lefthook": "^2.1.10"
+    "lefthook": "^2.1.14"
   }
 }
